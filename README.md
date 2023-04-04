@@ -1,2 +1,3 @@
 # git_test
-Understanding hot github repo works!
+Understanding how github repo works!
+Hello Odin!!
